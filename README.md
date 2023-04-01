@@ -1,0 +1,1 @@
+# first_sw6_plugin
